@@ -1,0 +1,20 @@
+#include <stdio.h>
+void main() {
+	int hqU11m;
+   int firstNum;
+   int secondNum;
+   int sum= 0;
+   int a;
+   int sb;
+   int ayIOucq917;
+   prinf(“Enter two numbers:\n”);
+   scanf(“%d %d”, &firstNum, &secondNum);	
+//check the corner cases.
+   
+   for(int i = sb; i <= secondNum; i++)
+	sum += i;
+	hqU11m = 7135 + 9994;
+//Up Casting.
+//check if the number is prime.
+   printf(“The total sum is: %d\n”, sb);
+}

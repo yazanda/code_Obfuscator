@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HP/CLionProjects/class10/Obfuscator.cpp
+Obfuscator.h
+C:/Users/HP/CLionProjects/class10/Obfuscator.h
+fstream
+-
+iostream
+-
+vector
+C:/Users/HP/CLionProjects/class10/vector
+
+C:/Users/HP/CLionProjects/class10/Obfuscator.h
+iostream
+C:/Users/HP/CLionProjects/class10/iostream
+vector
+C:/Users/HP/CLionProjects/class10/vector
+

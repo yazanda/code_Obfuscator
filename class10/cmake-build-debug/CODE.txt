@@ -1,0 +1,23 @@
+#include <stdio.h>
+// the program calculates the sum of all numbers between two given numbers
+void main() {
+   int roz;
+   int clion = 1;
+   double chris;
+   int array[];
+   int sum = 0;
+   double aver;
+   printf(“Enter two numbers:\n”);
+   scanf(“%d %d %d %f”, &roz, &inf, &clion, &chris);	// gets input
+
+   // calculate the sum
+   for(int i = sb; i <= secondNum; i++)
+	sum += i;
+   printf(“The total sum is: %d\n”, sum);
+
+   while(0){
+       clion *= 2; //double clion 2 times.
+       inf++;
+   }
+   return 0;
+}
